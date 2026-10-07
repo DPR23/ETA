@@ -2,7 +2,7 @@
 
 This repository contains a LightGBM machine learning model that predicts delivery arrival times based on route distance, traffic severity, weather conditions, and truck type. 
 
-**Live Demo:** [Click here to test the model on Hugging Face]([YOUR_HUGGINGFACE_LINK](https://huggingface.co/spaces/DPR23/ETAPREDICT))
+**Live Demo:**https://huggingface.co/spaces/DPR23/ETAPREDICT
 
 
 
